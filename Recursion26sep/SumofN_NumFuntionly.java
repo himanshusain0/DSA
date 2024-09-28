@@ -11,7 +11,7 @@ public class SumofN_NumFuntionly {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number ");
         int n = sc.nextInt();     
-        System.out.println("sum of "  + n  + "is :"+ f(n));
+        System.out.println("sum of "  + n  + " is :"+ f(n));
         
 }
 }
